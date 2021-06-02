@@ -1,7 +1,7 @@
 {
-  "name": "api-zeeoneofc",
+  "name": "vall-api",
   "version": "1.1.0",
-  "description": "My Rest Api Projectttttt",
+  "description": "My Rest Api Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc/api-zeeoneofc.git"
+    "url": "git+https://github.com/rivalgans.git"
   },
   "keywords": [
     "simple",
@@ -17,7 +17,7 @@
     "rest",
     "api"
   ],
-  "author": "zeeone",
+  "author": "rival gans",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc/api-zeeoneofc/issues"
@@ -45,5 +45,5 @@
     "ytdl-core": "^4.4.5",
     "ytpl": "^2.0.5"
   },
-  "homepage": "https://github.com/zeeoneofc/api-zeeoneofc#readme"
+  "homepage": "https://github.com/rivalgans#readme"
 }
